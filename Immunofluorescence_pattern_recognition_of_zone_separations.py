@@ -4,7 +4,7 @@
 # 
 #This program performs some data analysis on two microscopy images of the same sample
 #(comparison of zone-separations intensities between two 16 bits 1200x1200 tiff images 
-#of the same sample with two different chemical treatments). 
+#of the same sample under two different laser lights, triggering different fluorescence emissions). 
 #Zone separation patterns are searched on images *_C0.tiff and their intensities compared with *_C1.tiff 
 #
 #This program was realized as an exercice to help a student after a short term traineeship 
